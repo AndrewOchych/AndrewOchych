@@ -1,11 +1,11 @@
 ### Hi there, I'm Andrew Ochych - [WebDeveloper][website] 👋
 
 ## I'm a Husband, Father,and WebDeveloper!
-- 🔭 I’m currently working on a [studying React][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on a [mywebsite][website]!
+- 🌱 I’m currently studying React 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play computer games / travel
+- ⚡ Fun fact: I love to play computer games/travel
 
 ### Connect with me:
 
