@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrew Ochych - [WebDeveloper][website] 👋
 
 ## I'm a Husband, Father,and WebDeveloper!
-- 🔭 I’m currently working on a [mywebsite][website]!
+- 🔭 I’m currently working on a [myWebSite][website]!
 - 🌱 I’m currently studying React 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
