@@ -35,8 +35,7 @@
 
 ---
 
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndrewOchych&show_icons=true&hide_border=true" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AndrewOchych&repo=github-readme-stats" />
 
 [website]: http://webdeveloper.html-5.me/
 [instagram]: https://www.instagram.com/ochychandrii/?hl=uk
