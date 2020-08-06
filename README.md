@@ -1,5 +1,5 @@
 ### Hi there, I'm Andrew Ochych - [WebDeveloper][website] 👋
-#### I'm Front-End Developer from Ukraine. I’m a freelance web developer with passion for the latest solutions and interactive design. I enjoy working with cutting edge web technologies. I'm a creative person. I have no fear of new things and tasks. I'm always open to new challenges.
+#### I'm WebDeveloper (Front-End) Developer from Ukraine. I’m a freelance web developer with passion for the latest solutions and interactive design. I enjoy working with cutting edge web technologies. I'm a creative person. I have no fear of new things and tasks. I'm always open to new challenges.
 
 ## I'm a Husband, Father,and WebDeveloper!
 
