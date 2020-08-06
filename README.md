@@ -2,11 +2,12 @@
 #### I'm Front-End Developer from Ukraine. I’m a freelance web developer with passion for the latest solutions and interactive design. I enjoy working with cutting edge web technologies. I'm a creative person. I have no fear of new things and tasks. I'm always open to new challenges.
 
 ## I'm a Husband, Father,and WebDeveloper!
-- 🔭 I’m currently working on a [myWebSite][website]!
-- 🌱 I’m currently studying React 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play computer games/travel
+
+- 🌱 I’m currently learning React Apollo-client Graphql 🤣
+- 🔭 Examples of my works you can see on my [myWebSite][website]!
+- 👯 I'm looking to mentor to help me faster learning 
+- 🥅 2020 Goals: Contribute more to Open Source projects and  get offer React developer
+- ⚡ Fun fact: I love to play computer games, travel and watching football
 
 ### Connect with me:
 
